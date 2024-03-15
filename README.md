@@ -1,2 +1,2 @@
 # Tasks-Distribution
-Shows which use-case each member of the group is working on.
+Shows which use-case of each group member is working on.
